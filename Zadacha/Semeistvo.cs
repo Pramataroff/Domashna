@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.WebSockets;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -41,6 +42,36 @@ namespace Zadacha
             {
                 item.Intruduce();
             }
+        }
+        public void PrintYoungest()
+        {
+            int minage = int.MaxValue;
+            Person youngest = new Person();
+            foreach (Person item in this.Members) 
+            {
+                if (item.Age < minage)
+                {
+                    minage = item.Age;
+                    youngest = item;
+                }
+            }
+            Console.WriteLine($"Yongest person from the family is ");
+            youngest.Intruduce();
+        }
+        public void PrintOldest()
+        {
+            int minage = int.MinValue;
+            Person youngest = new Person();
+            foreach (Person item in this.Members)
+            {
+                if (item.Age > minage)
+                {
+                    minage = item.Age;
+                    youngest = item;
+                }
+            }
+            Console.WriteLine($"Oldest person in the family is ");
+            youngest.Intruduce();
         }
     }
 }

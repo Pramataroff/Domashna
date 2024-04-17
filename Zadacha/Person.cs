@@ -40,6 +40,7 @@ namespace Zadacha
         public void PrintOldestAndYoungest()
         {
             Console.WriteLine($"Name: {Name}, Years: {Age}");
+            Console.WriteLine();
         }
     }
 }

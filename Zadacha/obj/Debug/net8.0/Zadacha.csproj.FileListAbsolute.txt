@@ -1,0 +1,15 @@
+C:\Milenski\Domashna\Zadacha\bin\Debug\net8.0\Zadacha.exe
+C:\Milenski\Domashna\Zadacha\bin\Debug\net8.0\Zadacha.deps.json
+C:\Milenski\Domashna\Zadacha\bin\Debug\net8.0\Zadacha.runtimeconfig.json
+C:\Milenski\Domashna\Zadacha\bin\Debug\net8.0\Zadacha.dll
+C:\Milenski\Domashna\Zadacha\bin\Debug\net8.0\Zadacha.pdb
+C:\Milenski\Domashna\Zadacha\obj\Debug\net8.0\Zadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Milenski\Domashna\Zadacha\obj\Debug\net8.0\Zadacha.AssemblyInfoInputs.cache
+C:\Milenski\Domashna\Zadacha\obj\Debug\net8.0\Zadacha.AssemblyInfo.cs
+C:\Milenski\Domashna\Zadacha\obj\Debug\net8.0\Zadacha.csproj.CoreCompileInputs.cache
+C:\Milenski\Domashna\Zadacha\obj\Debug\net8.0\Zadacha.sourcelink.json
+C:\Milenski\Domashna\Zadacha\obj\Debug\net8.0\Zadacha.dll
+C:\Milenski\Domashna\Zadacha\obj\Debug\net8.0\refint\Zadacha.dll
+C:\Milenski\Domashna\Zadacha\obj\Debug\net8.0\Zadacha.pdb
+C:\Milenski\Domashna\Zadacha\obj\Debug\net8.0\Zadacha.genruntimeconfig.cache
+C:\Milenski\Domashna\Zadacha\obj\Debug\net8.0\ref\Zadacha.dll

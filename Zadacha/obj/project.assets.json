@@ -8,24 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\STUDENTS-1212-5\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\visual studio\\Zadacha za domashna\\Zadacha\\Zadacha.csproj",
+      "projectUniqueName": "C:\\Milenski\\Domashna\\Zadacha\\Zadacha.csproj",
       "projectName": "Zadacha",
-      "projectPath": "E:\\visual studio\\Zadacha za domashna\\Zadacha\\Zadacha.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "E:\\visual studio\\Zadacha za domashna\\Zadacha\\obj\\",
+      "projectPath": "C:\\Milenski\\Domashna\\Zadacha\\Zadacha.csproj",
+      "packagesPath": "C:\\Users\\STUDENTS-1212-5\\.nuget\\packages\\",
+      "outputPath": "C:\\Milenski\\Domashna\\Zadacha\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\STUDENTS-1212-5\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

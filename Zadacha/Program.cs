@@ -37,7 +37,7 @@ namespace Zadacha
             }
             Console.WriteLine();
 
-            //a)
+           
             Person oldest = myFamily.Members[count - 1];
             Person youngest = myFamily.Members[0];
             Console.Write("Oldest: ");
@@ -46,18 +46,17 @@ namespace Zadacha
             youngest.PrintOldestAndYoungest();
 
 
-            //b)
+            
             foreach (Person member in myFamily.Members)
             {
                 total += member.Age;
             }
 
             Console.WriteLine();
-
-            //Pechat
             myFamily.PrintAll();
             Console.WriteLine();
             Console.WriteLine($"Sum of the years: {total}");
+            myFamily.PrintYoungest();
         }
     }
 }
